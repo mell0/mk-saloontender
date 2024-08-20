@@ -29,5 +29,4 @@ Items for crafting are specified in the config file. You need to have each item 
 - add the following to your server.cfg file : ensure mk-saloontender
 
 # Credits
-- rsg-saloontender : https://github.com/B4NGDAI/rsg-saloontender
-
+- rsg-saloontender
