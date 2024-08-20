@@ -1,5 +1,5 @@
 # mk-saloontender
-This is modified implementation for saloontender for VORP using no so liked ox_lib (might update in future to vorp_menu/vorp_input)
+This is modified implementation for saloontender for VORP using not so liked ox_lib (might update in future to vorp_menu/vorp_input)
 
 # Description
 You can craft food at your saloon crafting station which will add the items to a stock inventory then you may fill the shop with the craftet items from the stock inventory to your saloon shop for whatever price you want for each item and people can buy it. Money from the sold items will go to the cash register and you can withdraw any available amount at anytime. Refill-ing already existing items from the stock inventory with a higher price will overload the current item price. Only people with given job can access the crafting station and see the extended shop options for withdrawing money and refilling the stock.
